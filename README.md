@@ -1,0 +1,1 @@
+# winter_projects-cv_cnn_and_compression-assignment_1
